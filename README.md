@@ -1,16 +1,9 @@
-# provider_practice_app
+# CounterApp_usingProvider
 
-A new Flutter project.
+Implemented Provider state Mangement in a default Flutter Counter Application!!
 
-## Getting Started
+## App Preview
+![couterApp provider](https://github.com/pawan-wao/CounterApp_usingProvider/assets/119276655/fecf2232-5216-4088-958b-b1b20ed4814b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feedback
+If you have any feedback, please reach out to me at waonicegood@gmail.com
